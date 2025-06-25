@@ -26,7 +26,7 @@
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "Jwan",
     "required": false
   },
    "BOT_PASSWORD": {
